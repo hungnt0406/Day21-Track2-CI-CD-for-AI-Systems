@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hungcucu/Documents/AI_DataInfrastructure/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/2fe864984229465cb275db1cf9fa71ea/artifacts
+end_time: 1778131408123
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2fe864984229465cb275db1cf9fa71ea
+run_name: placid-colt-206
+run_uuid: 2fe864984229465cb275db1cf9fa71ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778131405759
+status: 3
+tags: []
+user_id: hungcucu

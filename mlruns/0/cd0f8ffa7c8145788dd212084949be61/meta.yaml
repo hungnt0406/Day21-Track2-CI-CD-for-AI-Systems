@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hungcucu/Documents/AI_DataInfrastructure/Day21-Track2-CI-CD-for-AI-Systems/mlruns/0/cd0f8ffa7c8145788dd212084949be61/artifacts
+end_time: 1778131380849
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd0f8ffa7c8145788dd212084949be61
+run_name: masked-shoat-557
+run_uuid: cd0f8ffa7c8145788dd212084949be61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778131378912
+status: 3
+tags: []
+user_id: hungcucu
